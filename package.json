@@ -1,8 +1,8 @@
 {
-  "name": "react-caesars-cipher",
+  "name": "react-binary-converter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iamsanga.github.io/react-caesar-cipher/",
+  "homepage": "https://iamsanga.github.io/react-binary-converter/",
   "dependencies": {
     "@material-ui/core": "^1.5.0",
     "@material-ui/icons": "^2.0.2",
