@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+
+
+}
+#body{
+  background-image: url("/binary.gif");
+  backgroundSize: cover;
+  backgroundRepeat: no-repeat;
+}
+
+.container {
+  width: 800px;
+  height: 500px;
+  margin: 0 auto;
+
+}
+.container h1{
+  color: green;
+
+}
+
+.child-container {
+  margin: 50px;
+  padding: 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.shift {
+  margin: 50px;
+}
